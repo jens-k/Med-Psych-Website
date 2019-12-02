@@ -1,2 +1,5 @@
 # Med Psych Website
- Create the new website for our institute 
+ Create the new website for our institute.
+ 
+ Come to the workshop tomorrow!
+ 
